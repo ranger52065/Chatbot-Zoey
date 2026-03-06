@@ -35,7 +35,7 @@ Zoey 是一个基于 Alibaba DashScope API（通义千问）构建的多模态AI
 
 ### 前置要求
 
-- Python 3.8.11 或更高版本
+- Python 3.11 或更高版本
 - DashScope API Key（[获取地址](https://dashscope.console.aliyun.com/)）
 
 ### 安装步骤
