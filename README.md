@@ -17,6 +17,7 @@
 
 Zoey 是一个基于 Alibaba DashScope API（通义千问）构建的多模态AI对话助手。通过 Gradio 提供友好的 Web 界面，支持文字、图片、音频等多种输入方式，实现智能对话、图像理解、语音交互等功能。
 
+<a name="功能特性"></a>
 ### ✨ 功能特性
 
 - 🎯 **多模型支持** - 支持 qwen-turbo、qwen-plus、qwen-max、qwen-omni-turbo 四种模型
@@ -30,7 +31,7 @@ Zoey 是一个基于 Alibaba DashScope API（通义千问）构建的多模态AI
 - 🌐 **局域网访问** - 支持局域网内多设备访问
 
 ---
-
+<a name="快速开始"></a>
 ## 🚀 快速开始
 
 ### 前置要求
@@ -85,7 +86,7 @@ Zoey 是一个基于 Alibaba DashScope API（通义千问）构建的多模态AI
    - 局域网访问：http://your-local-ip:7860
 
 ---
-
+<a name="使用指南"></a>
 ## 📚 使用指南
 
 ### 模型选择
@@ -112,7 +113,7 @@ Zoey 是一个基于 Alibaba DashScope API（通义千问）构建的多模态AI
 - 不支持图片和音频混合输入
 
 ---
-
+<a name="配置说明"></a>
 ## ⚙️ 配置说明
 
 ### 环境变量
