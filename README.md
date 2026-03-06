@@ -139,7 +139,7 @@ DASHSCOPE_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
 
 ## 🛠️ 技术栈
 
-- **后端框架**：Python + Langchain + OpenAI SDK
+- **后端框架**：Python + OpenAI SDK
 - **前端界面**：Gradio
 - **AI 模型**：Alibaba DashScope (通义千问)
 - **图像处理**：Pillow
