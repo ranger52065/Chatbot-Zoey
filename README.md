@@ -1,7 +1,7 @@
-
-
 <div align="center">
+
 # 🤖 Zoey - 多模态AI助手
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Gradio](https://img.shields.io/badge/Gradio-5.49.1-orange.svg)](https://gradio.app/)
 
